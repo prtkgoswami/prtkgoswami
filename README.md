@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Website](http://prtkgoswami.github.io/)
 
 <!--
 **prtkgoswami/prtkgoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
