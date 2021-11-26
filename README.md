@@ -6,7 +6,7 @@
 ### I am a Student, Developer & a Tech Enthusiast 
 - :computer: Currently developing VR Vision Therapy tools as a part of my Capstone Project
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to music :musical_note: & cars :car:
+- ⚡ Fun fact: Besides programming, I have a passion for music :musical_note: & cars :car:
 
 ### Reach Me Here:
 - [Website] 
