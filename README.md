@@ -14,6 +14,7 @@
 - [Facebook] 
 - [Instagram]
 - [ItchIO]
+- [CodePen]
 
 <p align="center"> <img src="https://profile-counter.glitch.me/prtkgoswami/count.svg"/> </p>
 
@@ -22,4 +23,4 @@
 [Facebook]: https://www.facebook.com/prtkgoswami
 [Instagram]: https://www.instagram.com/prtkgoswami8/
 [ItchIO]: https://prtkgoswami.itch.io/
-[CodePen]: https://codepen.io/your-work/
+[CodePen]: https://codepen.io/prtkgoswami
