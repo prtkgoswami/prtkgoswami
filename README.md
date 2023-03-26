@@ -3,10 +3,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/prtkgoswami)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/prtkgoswami)](https://badges.pufler.dev)
 <br/>
 
-### I am a Student, Developer & a Tech Enthusiast 
-- :computer: Currently developing VR Vision Therapy tools as a part of my Capstone Project
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: Besides programming, I have a passion for music :musical_note: & cars :car:
+### I am a Software Engineer & a Tech Enthusiast 
 
 ### Reach Me Here:
 - [Website] 
