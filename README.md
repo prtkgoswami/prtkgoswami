@@ -7,17 +7,17 @@
 
 ### Reach Me Here:
 - [Website] 
+- [CodePen]
 - [LinkedIn] 
 - [Facebook] 
 - [Instagram]
 - [ItchIO]
-- [CodePen]
 
-<p align="center"> <img src="https://profile-counter.glitch.me/prtkgoswami/count.svg"/> </p>
 
-[Website]: http://prtkgoswami.github.io/
+[Website]: https://pratikgoswami.vercel.app/
 [LinkedIn]: https://www.linkedin.com/in/prtkgoswami
 [Facebook]: https://www.facebook.com/prtkgoswami
 [Instagram]: https://www.instagram.com/prtkgoswami8/
 [ItchIO]: https://prtkgoswami.itch.io/
+[CodePen]: https://codepen.io/prtkgoswami
 [CodePen]: https://codepen.io/prtkgoswami
