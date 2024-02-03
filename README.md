@@ -9,7 +9,6 @@
 - [Website] 
 - [CodePen]
 - [LinkedIn] 
-- [Facebook] 
 - [Instagram]
 - [ItchIO]
 
