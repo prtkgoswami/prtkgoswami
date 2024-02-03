@@ -5,18 +5,16 @@
 
 ### I am a Software Engineer & a Tech Enthusiast 
 
+### Get to Know me:
+-> [Visit Here]([Website]) <-
+
 ### Reach Me Here:
-- [Website] 
-- [CodePen]
-- [LinkedIn] 
-- [Instagram]
-- [ItchIO]
+
+<a href=" https://codepen.io/prtkgoswami" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/prtkgoswami" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://prtkgoswami.itch.io/](https://www.instagram.com/prtkgoswami8/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/prtkgoswami" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://prtkgoswami.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 
 
 [Website]: https://pratikgoswami.vercel.app/
-[LinkedIn]: https://www.linkedin.com/in/prtkgoswami
-[Facebook]: https://www.facebook.com/prtkgoswami
-[Instagram]: https://www.instagram.com/prtkgoswami8/
-[ItchIO]: https://prtkgoswami.itch.io/
-[CodePen]: https://codepen.io/prtkgoswami
-[CodePen]: https://codepen.io/prtkgoswami
