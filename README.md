@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome!
+# Hi there 👋
 
 [![Repos Badge](https://badges.pufler.dev/repos/prtkgoswami)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/prtkgoswami)](https://badges.pufler.dev)
 <br/>
