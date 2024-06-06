@@ -16,4 +16,4 @@
 <a href="https://prtkgoswami.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 
 
-[Website]: https://pratikgoswami.vercel.app/
+[Website]: [https://pratikgoswami.vercel.app/](https://www.pratikgoswami.dev/)
