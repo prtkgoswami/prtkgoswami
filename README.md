@@ -5,7 +5,7 @@
 
 ### I am a Software Engineer & a Tech Enthusiast 
 
-### [Visit my Website][Website] <-
+### [Visit my Website][Website]
 
 ### Reach Me Here:
 
